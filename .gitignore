@@ -1,0 +1,8 @@
+# Sanal Ortamlar ve Geçici Dosyalar
+venv/
+__pycache__/
+*.pyc
+
+# Proje Veritabanı ve Güvenlik
+chroma_db/
+.env

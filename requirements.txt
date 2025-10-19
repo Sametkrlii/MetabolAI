@@ -1,0 +1,7 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+google-genai
+pandas
+numpy #numpy==2.0 ile geliştirilmiştir bir sorun çıkması durumunda nupmy==2.0 olarak değiştirilmelidir.
